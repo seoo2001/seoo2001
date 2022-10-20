@@ -1,1 +1,1 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/seoo2001/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seoo2001)](https://solved.ac/seoo2001/)
