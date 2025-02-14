@@ -10,6 +10,8 @@
 ## 🚀 About Me  
 - 💡 **Interested in AI & ML**, especially **Recommender Systems**  
 - 💻 Love solving algorithm problems on [Baekjoon](https://solved.ac/profile/seoo2001) & [codeforces](https://codeforces.com/profile/ilez_)
+- 🎓 I'm a student majoring in **Computer Science and Engineering** at the [**University of Seoul**](https://www.uos.ac.kr/engineering/depart/cs/main.do).
+- 🤖 **[BoostCamp AI Tech](https://boostcamp.connect.or.kr/program_ai.html) 7th**  
 
 ## 🛠 Tech Stack  
 <div align="center">
@@ -17,6 +19,14 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ## 📫 Contact Me  
