@@ -6,3 +6,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seoo2001" alt="Solved.ac Profile" height="150px"/>
   </a>
 </p>
+
+<p align="center">
+  🌐 personal blog: <a href="https://ilez.xyz">https://ilez.xyz</a>
+</p>
